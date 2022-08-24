@@ -21,5 +21,5 @@
 - Class is created using the class keyword
 - Classes are used to create and manage new object and support inheritance 
 
-[class](https://javatutorial.net/wp-content/uploads/2014/11/class-object-featured-image.png)
+<img width="100%" src="imgs/Class.png"/>
 
