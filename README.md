@@ -11,3 +11,15 @@
 - OOP benefits collaborative development, where projects are separated into groups.
 - once the object is known then it labels as a class of object
 
+<img width="100%" src="imgs/OOPConcepts.png"/>
+
+## Class
+
+- Classes are defined by the user
+- Classes acts as bluepribt for object, attribute and methods
+- A class is consist of declaration and defination
+- Class is created using the class keyword
+- Classes are used to create and manage new object and support inheritance 
+
+[class](https://javatutorial.net/wp-content/uploads/2014/11/class-object-featured-image.png)
+
