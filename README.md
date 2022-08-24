@@ -39,13 +39,20 @@
 
 ## Object
 
-- Classes are defined by the user
-- Classes acts as bluepribt for object, attribute and methods
-- A class is consist of declaration and defination
-- Class is created using the class keyword
-- Classes are used to create and manage new object and support inheritance 
+- Objects are instances of a class
+- Objects are created with specofoc data
+- Objects provides a structured approach to programming
+- We can easily create multiple similar object and modify existing object 
+- Object in OOP's can include a data structure, a vartiable or function
 
 <img width="100%" src="imgs/OOPObject.png"/>
+
+> here in this example class in animal and objects are dog,cat,cow,elephant
+
+> each object has its own identity attribute and behaviour
+
+> every object contain real-life entities
+
 
 ## the main principles of OOP
 
