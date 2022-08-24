@@ -35,7 +35,17 @@
 - Class is created using the class keyword
 - Classes are used to create and manage new object and support inheritance 
 
-<img width="100%" src="imgs/Class.png"/>
+<img width="100%" src="imgs/OOPClass.png"/>
+
+## Object
+
+- Classes are defined by the user
+- Classes acts as bluepribt for object, attribute and methods
+- A class is consist of declaration and defination
+- Class is created using the class keyword
+- Classes are used to create and manage new object and support inheritance 
+
+<img width="100%" src="imgs/OOPObject.png"/>
 
 ## the main principles of OOP
 
