@@ -72,7 +72,7 @@
 
 - **Polymorphism.** Objects are designed to share behaviors and they can take on more than one form. The program will determine which meaning or usage is necessary for each execution of that object from a parent class, reducing the need to duplicate code. A child class is then created, which extends the functionality of the parent class. Polymorphism allows different types of objects to pass through the same interface.
 
-<img width="100%" src="imgs/OOPClass.png"/>
+<img width="100%" src="imgs/OOPPolymorphism.png"/>
 
 ## the benefits of OOP
 
