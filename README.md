@@ -40,7 +40,7 @@
 ## Object
 
 - Objects are instances of a class
-- Objects are created with specofoc data
+- Objects are created with specific data
 - Objects provides a structured approach to programming
 - We can easily create multiple similar object and modify existing object 
 - Object in OOP's can include a data structure, a vartiable or function
